@@ -1,0 +1,16 @@
+Index: src/main/java/HomeWorkApp.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/HomeWorkApp.java b/src/main/java/Lesson_1/HomeWorkApp.java
+rename from src/main/java/HomeWorkApp.java
+rename to src/main/java/Lesson_1/HomeWorkApp.java
+--- a/src/main/java/HomeWorkApp.java	(revision 8b3350680a608aedb2ce09216ac8fe9e981b4195)
++++ b/src/main/java/Lesson_1/HomeWorkApp.java	(revision 3f26a36bdad991e1472b9168232ac63212534bf7)
+@@ -1,3 +1,5 @@
++package Lesson_1;
++
+ public class HomeWorkApp {
+     public static void main(String[] args) {
+         printThreeWords();
